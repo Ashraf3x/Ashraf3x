@@ -243,7 +243,7 @@ Passionate about writing quality code following **SOLID principles** and **Clean
 <p align="center">
 
 <a href="https://codeforces.com/profile/Ashraf">
-<img src="https://img.shields.io/badge/Codeforces-Ashraf3x-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-Ashraf-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/ashraf3x/">
@@ -251,7 +251,7 @@ Passionate about writing quality code following **SOLID principles** and **Clean
 </a>
 &nbsp;
 <a href="https://atcoder.jp/users/ahmed_ashraf11">
-<img src="https://img.shields.io/badge/AtCoder-Ashraf3x-222222?style=for-the-badge&logo=atcoder&logoColor=white"/>
+<img src="https://img.shields.io/badge/AtCoder-ahmed_ashraf11-222222?style=for-the-badge&logo=atcoder&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://vjudge.net/user/Ahmed_Ashraf11">
