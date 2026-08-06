@@ -208,7 +208,7 @@ Passionate about writing quality code following **SOLID principles** and **Clean
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Ashraf3x&theme=github-dark-blue&hide_border=true&border_radius=15"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Ashraf3x&theme=github-dark-blue&hide_border=true&border_radius=15&cache_bust=1"
     alt="GitHub Streak"
   />
 </p>
