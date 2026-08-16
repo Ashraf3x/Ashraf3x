@@ -207,7 +207,10 @@ Passionate about writing quality code following **SOLID principles** and **Clean
 # 🔥 GitHub Streak
 
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Ashraf3x&theme=github-dark-blue&hide_border=true&border_radius=15"
+    alt="GitHub Streak"
+  />
 </p>
 
 
