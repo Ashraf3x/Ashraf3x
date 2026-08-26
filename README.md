@@ -220,7 +220,7 @@ Passionate about writing quality code following **SOLID principles** and **Clean
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashraf3x&theme=tokyo-night&cache_bust=20260826"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashraf3x&theme=tokyo-night"/>
 
 </div>
 
