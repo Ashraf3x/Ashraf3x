@@ -216,13 +216,13 @@ Passionate about writing quality code following **SOLID principles** and **Clean
 
 
 
-# 📈 Contribution Graph
+## 🚀 Galaga Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashraf3x&theme=tokyo-night"/>
-
-</div>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashraf3x/Ashraf3x/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashraf3x/Ashraf3x/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Ashraf3x/Ashraf3x/output/galaga-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -303,24 +303,6 @@ Passionate about writing quality code following **SOLID principles** and **Clean
 </div>
 
 ---
-
-# 🐍 Contribution Snake
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/Ashraf3x/Ashraf3x/output/github-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/Ashraf3x/Ashraf3x/output/github-snake.svg">
-
-<img alt="Snake Animation"
-  src="https://raw.githubusercontent.com/Ashraf3x/Ashraf3x/output/github-snake.svg">
-
-</picture>
-
----
-
 # 💡 Fun Fact
 
 ```text
