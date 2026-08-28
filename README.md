@@ -204,7 +204,7 @@ Passionate about writing quality code following **SOLID principles** and **Clean
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
   <img
@@ -216,7 +216,7 @@ Passionate about writing quality code following **SOLID principles** and **Clean
 
 
 
-## 🚀 Contribution Graph
+## Contribution Graph
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashraf3x/Ashraf3x/output/galaga-contribution-graph-dark.svg">
